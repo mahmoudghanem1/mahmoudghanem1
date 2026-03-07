@@ -1,6 +1,7 @@
 # Hi 👋 I'm Mahmoud Ghanem
 
 DevOps Engineer focused on building cloud-native infrastructure, Kubernetes platforms, and automated CI/CD pipelines.
+
 I enjoy designing scalable systems using Kubernetes, AWS, and GitOps practices.
 
 ---
@@ -23,6 +24,10 @@ I enjoy designing scalable systems using Kubernetes, AWS, and GitOps practices.
 
 End-to-end DevOps pipeline deploying a Spring Boot application to AWS EKS using GitOps.
 
+### Architecture
+
+GitHub → GitHub Actions → DockerHub → ArgoCD → Kubernetes (EKS) → Spring Boot App → Prometheus → Grafana
+
 ### Technologies Used
 
 - AWS EKS
@@ -35,8 +40,7 @@ End-to-end DevOps pipeline deploying a Spring Boot application to AWS EKS using 
 
 ### Repository
 
-https://github.com/mahmoudghanem1/new-web-eks
-
+👉 https://github.com/mahmoudghanem1/new-web-eks
 ---
 
 ## Kubernetes GitOps Deployment
@@ -54,7 +58,7 @@ GitOps CI/CD pipeline deploying a Spring Boot application to Kubernetes with mon
 
 ### Repository
 
-https://github.com/mahmoudghanem1/new-web
+👉 https://github.com/mahmoudghanem1/new-web
 
 ---
 
