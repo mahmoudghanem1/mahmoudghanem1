@@ -74,14 +74,6 @@ GitOps CI/CD pipeline deploying a Spring Boot application to Kubernetes with mon
 
 ---
 
-## 📊 GitHub Stats
-
-![Mahmoud GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mahmoudghanem1&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mahmoudghanem1&theme=tokyonight)
-
----
-
 # 🌍 Connect with Me
 
 LinkedIn  : www.linkedin.com/in/proghanem
