@@ -26,21 +26,7 @@ End-to-end DevOps pipeline deploying a Spring Boot application to AWS EKS using 
 
 ### Architecture
 
-GitHub
-↓
-GitHub Actions
-↓
-DockerHub
-↓
-ArgoCD
-↓
-Kubernetes EKS
-↓
-Spring Boot Application
-↓
-Prometheus Monitoring
-↓
-Grafana Dashboards
+GitHub → GitHub Actions → DockerHub → ArgoCD → Kubernetes (EKS) → Spring Boot App → Prometheus → Grafana
 
 ### Technologies Used
 
@@ -63,21 +49,7 @@ GitOps CI/CD pipeline deploying a Spring Boot application to Kubernetes with mon
 
 ### Architecture
 
-GitHub
-↓
-GitHub Actions
-↓
-DockerHub
-↓
-ArgoCD
-↓
-Kubernetes 
-↓
-Spring Boot Application
-↓
-Prometheus Monitoring
-↓
-Grafana Dashboards
+GitHub → GitHub Actions → DockerHub → ArgoCD → Kubernetes → Spring Boot App → Prometheus → Grafana
 
 ### Technologies Used
 
