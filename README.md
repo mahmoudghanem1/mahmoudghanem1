@@ -40,7 +40,7 @@ GitHub → GitHub Actions → DockerHub → ArgoCD → Kubernetes (EKS) → Spri
 
 ### Repository
 
-👉 https://github.com/mahmoudghanem1/new-web-eks
+👉 [https://github.com/mahmoudghanem1/new-web-eks](https://github.com/mahmoudghanem1/eks-gitops-pipeline)
 ---
 
 ## Kubernetes GitOps Deployment
@@ -62,7 +62,7 @@ GitHub → GitHub Actions → DockerHub → ArgoCD → Kubernetes → Spring Boo
 
 ### Repository
 
-👉 https://github.com/mahmoudghanem1/new-web
+👉 [https://github.com/mahmoudghanem1/new-web](https://github.com/mahmoudghanem1/gitops-k8s-pipeline)
 
 ---
 
